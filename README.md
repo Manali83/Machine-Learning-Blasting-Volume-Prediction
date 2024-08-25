@@ -1,2 +1,2 @@
-# MachineLearrningPy
-Blasting volume prediction analysis
+# BLASTING-VOLUME-PREDICTION-A-DATA-DRIVEN-APPROACH-FOR-IMPROVED-ACCURACY
+The project involves analyzing a dataset from an Indian iron ore mine for FY’23, with the goal of predicting the volume of material blasted and visualizing various blasting parameters to gain valuable insights for decision-making in the mining sector. The project incorporates techniques such as exploratory data analysis (EDA), data cleaning, data visualization, data transformation, and the application of supervised machine learning algorithms. The best performance was achieved using Linear Regression and DecisionTreeRegressor, with an R² score of 0.976 and an RMSE of 836.87.
